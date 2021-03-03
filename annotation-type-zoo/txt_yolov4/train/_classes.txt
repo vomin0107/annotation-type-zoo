@@ -1,0 +1,6 @@
+bar
+chair
+mask
+multiOutlet
+pen
+wire

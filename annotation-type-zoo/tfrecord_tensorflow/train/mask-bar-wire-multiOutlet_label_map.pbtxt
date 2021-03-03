@@ -1,0 +1,30 @@
+item {
+    name: "bar",
+    id: 1,
+    display_name: "bar"
+}
+item {
+    name: "chair",
+    id: 2,
+    display_name: "chair"
+}
+item {
+    name: "mask",
+    id: 3,
+    display_name: "mask"
+}
+item {
+    name: "multiOutlet",
+    id: 4,
+    display_name: "multiOutlet"
+}
+item {
+    name: "pen",
+    id: 5,
+    display_name: "pen"
+}
+item {
+    name: "wire",
+    id: 6,
+    display_name: "wire"
+}
